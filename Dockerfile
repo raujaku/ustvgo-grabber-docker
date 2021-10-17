@@ -12,6 +12,7 @@ RUN \
  apk add --no-cache \
   py3-pip \
   python3 \
+  busybox-initscripts package
  pip install -r requirements.txt
  crontab crontab
 
