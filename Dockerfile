@@ -4,9 +4,9 @@ COPY . .
 
 RUN mkdir /iptv
 
-ADD ustvgo_channel_info.txt /iptv/ustvgo_channel_info.txt
-
 VOLUME /iptv
+
+ADD https://raw.githubusercontent.com/benmoose39/ustvgo_to_m3u/main/ustvgo_channel_info.txt /iptv/ustvgo_channel_info.txt
 
 RUN pip install -r requirements.txt
 
