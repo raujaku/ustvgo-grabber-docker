@@ -8,6 +8,4 @@ RUN pip install -r requirements.txt
 
 RUN crontab crontab
 
-VOLUME /iptv
-
 CMD ["crond", "-f"]
