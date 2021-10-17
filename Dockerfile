@@ -1,9 +1,20 @@
-FROM python:3.6.12-alpine3.12
+FROM ghcr.io/linuxserver/baseimage-alpine:3.14
 
-COPY . .
+# copy local files
+COPY . /
 
-RUN pip install -r requirements.txt
+# install packages
+RUN \
+ echo "**** install build packages ****" && \
+ apk add --no-cache --virtual=build-dependencies \
+  python3-dev \
+ echo "**** install runtime packages ****" && \
+ apk add --no-cache \
+  py3-pip \
+  python3 \
+ pip install -r requirements.txt
+ crontab crontab
 
-RUN crontab crontab
+VOLUME /iptv
 
 CMD ["crond", "-f"]
