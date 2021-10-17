@@ -13,7 +13,7 @@ RUN \
   py3-pip \
   python3 \
   busybox-initscripts package
- pip install -r requirements.txt
+ pip3 install -r requirements.txt
  crontab crontab
 
 VOLUME /iptv
