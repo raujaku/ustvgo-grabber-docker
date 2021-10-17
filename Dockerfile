@@ -4,7 +4,7 @@ COPY . .
 
 RUN mkdir /iptv
 
-ADD https://raw.githubusercontent.com/benmoose39/ustvgo_to_m3u/main/ustvgo_channel_info.txt /iptv/
+ADD ustvgo_channel_info.txt /iptv/ustvgo_channel_info.txt
 
 VOLUME /iptv
 
