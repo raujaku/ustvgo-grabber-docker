@@ -5,5 +5,4 @@ COPY . .
 RUN pip install -r requirements.txt
 RUN crontab crontab
 
-USER 1000
 CMD ["crond", "-f"]
