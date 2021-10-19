@@ -91,37 +91,4 @@ USA Network  | USANetwork | https://raw.githubusercontent.com/Theitfixer85/myepg
 VH1  | VH1 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/vh1-us.png
 We TV  | WETV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/we-tv-us.png
 WWE Network  | WWE | https://i.imgur.com/VJoF3bh.png
-YES Network  | YES | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/yes-network-us.png/raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbcsn-us.png
-NFL Network  | NFL | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nfl-network-us.png
-NFL Redzone  | NFLRZ | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nfl-red-zone-us.png
-Nickelodeon  | Nickelodeon | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nickelodeon-us.png
-Nicktoons  | Nicktoons | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nick-toons-us.png
-One America News Network  | OAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/one-america-news-network-us.png
-Oprah Winfrey Network (OWN)  | OWN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/opra-winfrey-network-us.png
-Olympic Channel  | OLY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/olympics.png
-Oxygen  | Oxygen | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/oxygen-us.png
-Paramount  | Paramount | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/paramount-network-us.png
-PBS  | PBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/pbs-us.png
-POP  | POP | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/pop-us.png
-Science  | Science | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-science-us.png
-SEC Network  | SECN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sec-network-us.png
-Showtime  | Showtime | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/showtime-us.png
-StarZ  | StarZ | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/starz-us.png
-SundanceTV  | SundanceTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sundance-tv-us.png
-SYFY  | SYFY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/syfy-us.png
-TBS  | TBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tbs-us.png
-Turner Classic Movies (TCM)  | TCM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tcm-movies-us.png
-Telemundo  | Telemundo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/telemundo-us.png
-Tennis Channel  | Tennis | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tennis-channel-us.png
-TLC  | TLC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tlc-us.png
-TNT  | TNT | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tnt-us.png
-Travel Channel  | Travel | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/travel-channel-us.png
-truTV  | TruTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tru-tv-us.png
-TV Land  | TVLand | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tv-land-us.png
-The Weather Channel  | TWC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/weather-channel-us.png
-Univision  | Univision | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/univision-us.png
-USA Network  | USANetwork | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/usa-us.png
-VH1  | VH1 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/vh1-us.png
-We TV  | WETV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/we-tv-us.png
-WWE Network  | WWE | https://i.imgur.com/VJoF3bh.png
 YES Network  | YES | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/yes-network-us.png
