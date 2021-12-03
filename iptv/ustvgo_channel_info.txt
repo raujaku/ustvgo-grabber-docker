@@ -1,94 +1,47 @@
-ABC | ABC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png
-ACC Network  | ACCN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/acc-network-us.png
-AE | AE | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png
-AMC  | AMC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/amc-us.png
-Animal Planet  | Animal | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/animal-planet-us.png
-BBCAmerica  | BBCAmerica | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/bbc-america-us.png
-Big Ten Network  | BTN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/btn-us.png
-BET  | BET | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bet-us.png
-Boomerang  | Boomerang | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/boomerang-us.png
-Bravo  | Bravo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bravo-us.png
-C-span  | CSPAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png
-CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png
-CBS Sports Network  | CBSSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-sports-network-us.png
-Cinemax  | Cinemax | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cinemax-us.png
-CMT  | CMT | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cmt-us.png
-Cartoon Network  | CN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/cartoon-network-us.png
-CNBC  | CNBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/cnbc-us.png
-CNN  | CNN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cnn-us.png
-Comedy Central | Comedy | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/comedy-central-us.png
-CW  | CW | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png
-Destination America  | DA | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/destination-america-us.png
-Discovery  | Discovery | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-channel-us.png
-Disney  | Disney | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-channel-us.png
-DisneyJr  | DisneyJr | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-junior-us.png
-DisneyXD  | DisneyXD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/disney-xd-us.png
-Do it yourself (DIY)  | DIY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/diy-network-us.png
-E!  | E | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/e-entertainment-us.png
-ESPN  | ESPN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/espn-us.png
-ESPN2  | ESPN2 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-2-us.png
-ESPNU  | ESPNU | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-u-us.png
-ESPNews  | ESPNews | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espnews-us.png
-FoodNetwork  | FoodNetwork | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/food-network-us.png
-FOX  | FOX | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png
-FoxBusiness  | FoxBusiness | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-business-us.png
-FoxNews  | FoxNews | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-news-us.png
-Freeform  | Freeform | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/freeform-us.png
-Fox Sports 1 (FS1)  | FS1 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-1-us.png
-Fox Sports 2 (FS2)  | FS2 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-2-us.png
-FX  | FX | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fx-us.png
-FX Movie Channel  | FXMovie | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/fxm-movie-channel-us.png
-FXX  | FXX | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fxx-us.png
-Golf Channel  | GOLF | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-golf-channel-us.png
-Game Show Network  | GSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/game-show-network-us.png
-Hallmark Channel  | Hallmark | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-us.png
-HBO  | HBO | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png
-HGTV  | HGTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hgtv-us.png
-History  | History | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/history-channel-us.png
-HLN  | HLN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hln-us.png
-Hallmark Movies & Mysteries | HMM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-movies-and-mysteries-us.png
-Investigation Discovery  | ID | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/investigation-discovery-us.png
-Lifetime  | Lifetime | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/lifetime-us.png
-Lifetime Movie Network  | LifetimeM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/lifetime-movie-network-us.png
-MLB Network  | MLB | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/mlb-network-us.png
-Motor Trend  | MotorTrend | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/motor-trend-us.png
-MSNBC  | MSNBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/msnbc-alt-us.png
-MTV  | MTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/mtv-us.png
-National Geographic  | NatGEO | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/national-geographic-us.png
-Nat Geo Wild  | NatGEOWild | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nat-geo-wild-us.png
-NBA TV  | NBA | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nba-tv-us.png
-NBC  | NBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png
-NBC Sports (NBCSN)  | NBCSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbcsn-us.png
-NFL Network  | NFL | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nfl-network-us.png
-NFL Redzone  | NFLRZ | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nfl-red-zone-us.png
-Nickelodeon  | Nickelodeon | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nickelodeon-us.png
-Nicktoons  | Nicktoons | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nick-toons-us.png
-One America News Network  | OAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/one-america-news-network-us.png
-Oprah Winfrey Network (OWN)  | OWN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/opra-winfrey-network-us.png
-Olympic Channel  | OLY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/olympics.png
-Oxygen  | Oxygen | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/oxygen-us.png
-Paramount  | Paramount | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/paramount-network-us.png
-PBS  | PBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/pbs-us.png
-POP  | POP | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/pop-us.png
-Science  | Science | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-science-us.png
-SEC Network  | SECN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sec-network-us.png
-Showtime  | Showtime | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/showtime-us.png
-StarZ  | StarZ | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/starz-us.png
-SundanceTV  | SundanceTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sundance-tv-us.png
-SYFY  | SYFY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/syfy-us.png
-TBS  | TBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tbs-us.png
-Turner Classic Movies (TCM)  | TCM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tcm-movies-us.png
-Telemundo  | Telemundo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/telemundo-us.png
-Tennis Channel  | Tennis | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tennis-channel-us.png
-TLC  | TLC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tlc-us.png
-TNT  | TNT | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tnt-us.png
-Travel Channel  | Travel | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/travel-channel-us.png
-truTV  | TruTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tru-tv-us.png
-TV Land  | TVLand | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tv-land-us.png
-The Weather Channel  | TWC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/weather-channel-us.png
-Univision  | Univision | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/univision-us.png
-USA Network  | USANetwork | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/usa-us.png
-VH1  | VH1 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/vh1-us.png
-We TV  | WETV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/we-tv-us.png
-WWE Network  | WWE | https://i.imgur.com/VJoF3bh.png
-YES Network  | YES | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/yes-network-us.png
+ABC | ABC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ABC.png | ABC-USTV
+AE | AE | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/AE.png | AE-USTV
+AMC  | AMC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/AMC.png | AMC-USTV
+Boomerang  | Boomerang | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Boomerang.png | BOOMERANG-USTV
+Bravo  | Bravo | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Bravo.png | BRAVO-USTV
+CBS  | CBS | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CBS.png | CBS-USTV
+CBS Sports Network  | CBSSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CBSSports.png | CBSSPORTS-USTV
+CMT  | CMT | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CMT.png | CMT-USTV
+Cartoon Network  | CN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CN.png | CN-USTV
+CNN  | CNN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CNN.png | CNN-USTV
+Comedy Central | Comedy | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Comedy%20Central.png | CC-USTV
+Discovery  | Discovery | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Discovery.png | DISCOVERY-USTV
+Do it yourself (DIY)  | DIY | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/DIY.png | DIY-USTV
+ESPN  | ESPN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ESPN.png | ESPN-USTV
+ESPN2  | ESPN2 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ESPN2.png | ESPN2-USTV
+ESPNews  | ESPNews | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ESPNNEWS.png | ESPNEWS-USTV
+FoodNetwork  | FoodNetwork | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FoodNetwork.png | FOODNETWORK-USTV
+FOX  | FOX | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FOX.png | FOX-USTV
+Freeform  | Freeform | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Freeform.png | FREEFORM-USTV
+Fox Sports 1 (FS1)  | FS1 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FS1.png | FS1-USTV
+Fox Sports 2 (FS2)  | FS2 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FS2.png | FS2-USTV
+FXX  | FXX | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FXX.png | FXX-USTV
+Game Show Network  | GSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/GSN.png | GSN-USTV
+Hallmark Channel  | Hallmark | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Hallmark.png | HALLMARK-USTV
+HBO  | HBO | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/HBO.png | HBO-USTV
+HGTV  | HGTV | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/HGTV.png | HGTV-USTV
+History  | History | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/history-channel-us.png | 9233008002
+Hallmark Movies & Mysteries | HMM | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Hallmark.png | HALLMARKMM-USTV
+MSNBC  | MSNBC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/MSNBC.png | MSNBC-USTV
+National Geographic  | NatGEO | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NatGeo.png | NATGEO-USTV
+NBA TV  | NBA | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBA%20TV.png | NBATV-USTV
+NBC  | NBC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBC.png | NBC-USTV
+NBC Sports (NBCSN)  | NBCSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBCSN.png | NBCSN-USTV
+NFL Network  | NFL | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NFL%20Network.png | NFL-USTV
+Nickelodeon  | Nickelodeon | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Nickelodeon.png | NICKELODEON-USTV
+Paramount  | Paramount | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Paramount.png | PARAMOUNT-USTV
+Science  | Science | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Science.png | SCI-USTV
+Showtime  | Showtime | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Showtime.png | SHOWTIME-USTV
+SYFY  | SYFY | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/SYFY.png | SYFY-USTV
+TBS  | TBS | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TBS.png | TBS-USTV
+TLC  | TLC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TLC.png | TLC-USTV
+TNT  | TNT | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TNT.png | TNT-USTV
+Travel Channel  | Travel | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Travel%20Channel.png | TRAVEL-USTV
+TV Land  | TVLand | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TVLand.png | TVLAND-USTV
+USA Network  | USANetwork | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/USA.png | USA-USTV
+WWE Network  | WWE | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/WWENetwork.png | WWE-USTV
+YES Network  | YES | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/YES.png | YES-USTV
