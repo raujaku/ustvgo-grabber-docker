@@ -1,47 +1,44 @@
-ABC | ABC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ABC.png | ABC-USTV
-A&E | AE | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/AE.png | AE-USTV
-AMC  | AMC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/AMC.png | AMC-USTV
-BOOMERANG  | Boomerang | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Boomerang.png | BOOMERANG-USTV
-BRAVO  | Bravo | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Bravo.png | BRAVO-USTV
-CBS  | CBS | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CBS.png | CBS-USTV
-CBS SPORTS  | CBSSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CBSSports.png | CBSSPORTS-USTV
-CMT  | CMT | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CMT.png | CMT-USTV
-CARTOON NETWORK  | CN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CN.png | CN-USTV
-CNN  | CNN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CNN.png | CNN-USTV
-COMEDY CENTRAL | Comedy | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Comedy%20Central.png | CC-USTV
-DISCOVERY  | Discovery | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Discovery.png | DISCOVERY-USTV
-DIY  | DIY | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/DIY.png | DIY-USTV
-ESPN  | ESPN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ESPN.png | ESPN-USTV
-ESPN2  | ESPN2 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ESPN2.png | ESPN2-USTV
-ESPN NEWS  | ESPNews | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ESPNNEWS.png | ESPNEWS-USTV
-FOOD NETWORK  | FoodNetwork | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FoodNetwork.png | FOODNETWORK-USTV
-FOX  | FOX | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FOX.png | FOX-USTV
-FREEFORM  | Freeform | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Freeform.png | FREEFORM-USTV
-FS1  | FS1 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FS1.png | FS1-USTV
-FS2  | FS2 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FS2.png | FS2-USTV
-FXX  | FXX | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FXX.png | FXX-USTV
-GSN  | GSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/GSN.png | GSN-USTV
-HALLMARK  | Hallmark | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Hallmark.png | HALLMARK-USTV
-HBO  | HBO | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/HBO.png | HBO-USTV
-HGTV  | HGTV | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/HGTV.png | HGTV-USTV
-HISTORY  | History | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/history-channel-us.png | 9233008002
-HMM | HMM | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Hallmark.png | HALLMARKMM-USTV
-MSNBC  | MSNBC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/MSNBC.png | MSNBC-USTV
-NATGEO  | NatGEO | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NatGeo.png | NATGEO-USTV
-NBA TV  | NBA | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBA%20TV.png | NBATV-USTV
-NBC  | NBC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBC.png | NBC-USTV
-NBCSN  | NBCSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBCSN.png | NBCSN-USTV
-NFL NETWORK  | NFL | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NFL%20Network.png | NFL-USTV
-NICKELODEON  | Nickelodeon | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Nickelodeon.png | NICKELODEON-USTV
-PARAMOUNT  | Paramount | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Paramount.png | PARAMOUNT-USTV
-SCI  | Science | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Science.png | SCI-USTV
-SHOWTIME  | Showtime | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Showtime.png | SHOWTIME-USTV
-SYFY  | SYFY | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/SYFY.png | SYFY-USTV
-TBS  | TBS | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TBS.png | TBS-USTV
-TLC  | TLC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TLC.png | TLC-USTV
-TNT  | TNT | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TNT.png | TNT-USTV
-TRAVEL  | Travel | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Travel%20Channel.png | TRAVEL-USTV
-TVLAND  | TVLand | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TVLand.png | TVLAND-USTV
-USA  | USANetwork | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/USA.png | USA-USTV
-WWE  | WWE | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/WWENetwork.png | WWE-USTV
-YES  | YES | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/YES.png | YES-USTV
+ABC | ABC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ABC.png | 120 | l11.70809.zap2it.com
+A&E | AE | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/AE.png | 150 | AandE.us
+AMC | AMC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/AMC.png | 151 | AMC.us
+BOOMERANG  | Boomerang | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Boomerang.png | 201 | Boomerang.us
+BRAVO | Bravo | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Bravo.png | 152 | Bravo.us
+CBS | CBS | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CBS.png | 121 | l7.11325.zap2it.com
+CBS SPORTS | CBSSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CBSSports.png | 903 | CBSSportsNetwork.us
+CMT | CMT | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CMT.png | 185 | CMT.us
+CARTOON NETWORK | CN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CN.png | 202 | CartoonNetwork.us
+CNN | CNN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/CNN.png | 801 | l234.10142.zap2it.com
+COMEDY CENTRAL | Comedy | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Comedy%20Central.png | 180 | ComedyCentral.us
+DISCOVERY | Discovery | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Discovery.png | 330 | DiscoveryChannel.us
+DIY | DIY | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/DIY.png | 311 | DIYNetwork.us
+ESPN | ESPN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ESPN.png | 900 | ESPN.us
+ESPN2 | ESPN2 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/ESPN2.png | 901 | ESPN2.us
+FOOD NETWORK | FoodNetwork | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FoodNetwork.png | 300 | FoodNetwork.us
+FOX | FOX | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FOX.png | 123 | l10.11456.zap2it.com
+FREEFORM | Freeform | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Freeform.png | 172 | Freeform.us
+FS1 | FS1 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FS1.png | 905 | FoxSports1.us
+FS2 | FS2 | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FS2.png | 906 | FoxSports2.us
+FXX | FXX | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/FXX.png | 154 | FXX.us
+GSN | GSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/GSN.png | 190 | GameShowNetwork.us
+HALLMARK | Hallmark | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Hallmark.png | 350 | HallmarkChannel.us
+HBO | HBO | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/HBO.png | 153 | HBO.us
+HGTV | HGTV | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/HGTV.png | 310 | HGTV.us
+HISTORY | History | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/history-channel-us.png | 331 | History.us
+HMM | HMM | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Hallmark.png | 351 | HallmarkMoviesandMysteries.us
+MSNBC | MSNBC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/MSNBC.png | 805 | MSNBC.us
+NATGEO | NatGEO | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NatGeo.png | 321 | NationalGeographic.us
+NBA TV | NBA | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBA%20TV.png | 920 | NBATV.us
+NBC | NBC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBC.png | 122 | l9.11.2743.zap2it.com
+NBCSN | NBCSN | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/NBCSN.png | 904 | NBCSN.us
+NICKELODEON | Nickelodeon | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Nickelodeon.png | 203 | Nickelodeon.us
+PARAMOUNT | Paramount | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Paramount.png | 156 | ParamountNetwork.us
+SCI | Science | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Science.png | 333 | Science.us
+SHOWTIME | Showtime | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Showtime.png | 155 | Showtime.us
+SYFY | SYFY | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/SYFY.png | 160 | SYFY.us
+TBS | TBS | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TBS.png | 130 | TBS.us
+TLC | TLC | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TLC.png | 332 | TLC.us
+TNT | TNT | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TNT.png | 131 | TNT.us
+TRAVEL | Travel | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/Travel%20Channel.png | 320 | TheTravelChannel.us
+TVLAND | TVLand | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/TVLand.png | 171 | TVLand.us
+USA | USANetwork | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/USA.png | 132 | USANetwork.us
+WWE | WWE | https://raw.githubusercontent.com/colino17/curated-iptv/main/channel%20icons/WWENetwork.png | 960 | l138.90143.zap2it.com
