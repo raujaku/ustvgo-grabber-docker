@@ -41,10 +41,10 @@ while True:
             input(f'[!] Playlist generation failed. Press Ctrl+C to exit...')
             done()
 
-def grab(name, code, logo, cuid):
+def grab(name, code, logo, cuid, tvgid):
     data = {'stream': code}
     m3u = s.post('https://ustvgo.tv/data.php', data=data).text
-    playlist.write(f'\n#EXTINF:-1 CUID="{cuid}" tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
+    playlist.write(f'\n#EXTINF:-1 CUID="{cuid}" tvg-id="{tvgid}" group-title="ustvgo" tvg-logo="{logo}", {name}')
     playlist.write(f'\n{m3u}')
 
 total = 0
@@ -70,8 +70,9 @@ with open('/iptv/ustvgo_channel_info.txt') as file:
             code = line[1].strip()
             logo = line[2].strip()
             cuid = line[3].strip()
+            tvgid = line[4].strip()
             pbar.update(1)
-            grab(name, code, logo, cuid)
+            grab(name, code, logo, cuid, tvgid)
         pbar.close()
         print('\n[SUCCESS] Playlist is generated!\n')
         done()
