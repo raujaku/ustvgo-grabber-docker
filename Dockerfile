@@ -5,4 +5,7 @@ COPY . .
 RUN pip install -r requirements.txt
 RUN crontab crontab
 
+ENV xTeveIP= \
+    xTevePORT=34400
+
 CMD ["crond", "-f"]
