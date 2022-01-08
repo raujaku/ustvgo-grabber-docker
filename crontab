@@ -1,1 +1,1 @@
-0 */3 * * * /bin/sh task.sh
+0 */3 * * * /bin/sh /task.sh
