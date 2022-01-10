@@ -4,6 +4,7 @@ COPY . .
 
 RUN apk upgrade --update --no-cache \
     && apk add --no-cache \
+    bash \
     curl
 
 RUN pip install -r requirements.txt
