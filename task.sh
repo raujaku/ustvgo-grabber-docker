@@ -1,6 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 
-python3 task.py
+python3 /task.py
 sleep 5
 
 curl -X POST -d '{"cmd":"update.m3u"}' http://$xTeveIP:$xTevePORT/api/
