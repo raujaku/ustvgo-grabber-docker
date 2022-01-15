@@ -6,7 +6,7 @@ Docker image of https://github.com/benmoose39/ustvgo_to_m3u designed to grab M3U
 version: '2'
 services:
   ustvgo:
-    image: ghcr.io/colino17/ustvgo-grabber-docker:latest
+    image: raujaku/ustvgo-to-m3u-vpn
     container_name: ustvgo
     volumes:
       - /host/folder:/iptv
