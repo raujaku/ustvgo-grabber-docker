@@ -68,7 +68,7 @@ def grab(line):
     playlist.write(f'\n{m3u}')
 
 total = 0
-with open('iptv/ustvgo_channel_info.txt') as file:
+with open('/iptv/ustvgo_channel_info.txt') as file:
     for line in file:
         line = line.strip()
         if not line or line.startswith('~~'):
@@ -76,8 +76,8 @@ with open('iptv/ustvgo_channel_info.txt') as file:
         total += 1
 
 s = requests.Session()
-with open('iptv/ustvgo_channel_info.txt') as file:
-    with open('iptv/ustvgo.m3u', 'w') as playlist:
+with open('/iptv/ustvgo_channel_info.txt') as file:
+    with open('/iptv/ustvgo.m3u', 'w') as playlist:
         print('[*] Generating your playlist, please wait...\n')
         playlist.write('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Theitfixer85/myepg/master/blueepg.xml.gz"')
         playlist.write(f'\n{banner}\n')
