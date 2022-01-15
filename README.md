@@ -3,8 +3,7 @@ Docker image of https://github.com/benmoose39/ustvgo_to_m3u designed to grab M3U
 
 
 Requirements:
-brycelarge/xteve-vpn
-VPN service
+brycelarge/xteve-vpn & VPN service
 
 ```yaml
 version: '2'
