@@ -1,4 +1,4 @@
-# USTVGO GRABBER - DOCKER
+# USTVGO-TO-M3U-VPN - DOCKER
 Docker image of https://github.com/benmoose39/ustvgo_to_m3u designed to grab M3U links every hour from the USTVGO service.
 
 
