@@ -7,6 +7,8 @@ RUN apk upgrade --update --no-cache \
     bash \
     curl
 
+RUN apk add rsyslog
+
 RUN pip install -r requirements.txt
 RUN crontab crontab
 
